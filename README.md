@@ -1,1 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Rustam+Bikmukhametov+QA)](https://git.io/typing-svg)
+# Hi there, I'm [Rustam][](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### QA engineer from Russia 🇷🇺
