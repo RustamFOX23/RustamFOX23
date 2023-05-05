@@ -1,1 +1,1 @@
-<img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Rustam+Bikmukhametov+QA)](https://git.io/typing-svg)
