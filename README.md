@@ -6,14 +6,14 @@
 
 Меня зовут Рустам, я начинающий специалист по контролю качества. Я разместил свое портфолио с информацией о знаниях и навыках тестирования, которые я приобрел на курсах по тестированию ПО.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@RustamBikmukhametov-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/рустам-бикмухаметов-267761249/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rustam.bikmukhametov@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@RustamBikmukhametov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rustambikmukhametov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rustam.bikmukhametov@gmail.com)
 
 ---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="www.linkedin.com/in/рустам-бикмухаметов-267761249" target="_blank">
+    <a href="https://www.linkedin.com/in/rustambikmukhametov/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/kanlzer" target="_blank">
