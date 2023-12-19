@@ -13,6 +13,21 @@
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@RustamBikmukhametov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rustambikmukhametov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rustam.bikmukhametov@gmail.com)
 
+## My CV 
+
+[Здесь будет сслыка на резюме](https://ссылочку_сюда)
+
+## Портфолио 
+- Тестовая документация
+  -  [Чек-листы](https://ссылочку_сюда)
+  -  [Тест-кейсы](https://ссылочку_сюда)
+  -  [Mind maps](https://ссылочку_сюда)
+  -  [Баг-репорты](https://ссылочку_сюда)
+- Коллекция в Postman 
+  -  [Название проекта](https://ссылочку_сюда)
+- SQL запросы 
+  -  [Название проектв](https://ссылочку_сюда)
+
 ---
 
 ### 🤝 Социальные сети:
