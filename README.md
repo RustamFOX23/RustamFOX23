@@ -26,8 +26,8 @@
 <li>  <a href="https://github.com/RustamFOX23/API-testing"> REST and SOAP API testing via Postman </a>   </li>
 <li> <a href="https://github.com/RustamFOX23/MySQL">MySQL</a>   </li>
 <li>  <a href="https://github.com/RustamFOX23/Mobile-Testing"> Android app testing</a>   </li>
-<li> <a href="https://github.com/osukhorukova/charlesproxy">Replacing data with CharlesProxy</a>  </li>
-<li> <a href="https://github.com/osukhorukova/bash"> Bash </a>  </li>
+<li> <a href="https://github.com/RustamFOX23/Charles-Proxy">Replacing data with CharlesProxy</a>  </li>
+<li> <a href="https://github.com/RustamFOX23/bash"> Bash </a>  </li>
 <li> <a href="https://github.com/osukhorukova/git"> Git </a> </li>
 </ul>
 </p>
