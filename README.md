@@ -17,16 +17,21 @@
 
  📄[Rustam Bikmukhametov CV](https://naberezhnye.hh.ru/resume/5478aa0aff09e6f6720039ed1f633874777246)
 
-## Портфолио 
-- Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Mind maps](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
-- Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
-- SQL запросы 
-  -  [Название проектв](https://ссылочку_сюда)
+
+</p>
+<h2>Test Artifacts </h2>
+<p> 
+ <ul>
+<li>  <a href="https://github.com/osukhorukova/web_testing">Webshop testing</a>  </li>
+<li>  <a href="https://github.com/osukhorukova/api_testing"> REST and SOAP API testing via Postman </a>   </li>
+<li> <a href="https://github.com/osukhorukova/sql">MySQL</a>   </li>
+<li>  <a href="https://github.com/osukhorukova/mongodb">MongoDB</a>  </li>
+<li>  <a href="https://github.com/osukhorukova/mobile_testing"> Android app testing</a>   </li>
+<li> <a href="https://github.com/osukhorukova/charlesproxy">Replacing data with CharlesProxy</a>  </li>
+<li> <a href="https://github.com/osukhorukova/bash"> Bash </a>  </li>
+<li> <a href="https://github.com/osukhorukova/git"> Git </a> </li>
+</ul>
+</p>
 
 ---
 
