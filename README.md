@@ -24,7 +24,7 @@
  <ul>
 <li>  <a href="https://github.com/RustamFOX23/Web-shop-testing">Webshop testing</a>  </li>
 <li>  <a href="https://github.com/RustamFOX23/API-testing"> REST and SOAP API testing via Postman </a>   </li>
-<li> <a href="https://github.com/osukhorukova/sql">MySQL</a>   </li>
+<li> <a href="https://github.com/RustamFOX23/MySQL">MySQL</a>   </li>
 <li>  <a href="https://github.com/osukhorukova/mongodb">MongoDB</a>  </li>
 <li>  <a href="https://github.com/osukhorukova/mobile_testing"> Android app testing</a>   </li>
 <li> <a href="https://github.com/osukhorukova/charlesproxy">Replacing data with CharlesProxy</a>  </li>
