@@ -28,7 +28,7 @@
 <li>  <a href="https://github.com/RustamFOX23/Mobile-Testing"> Android app testing</a>   </li>
 <li> <a href="https://github.com/RustamFOX23/Charles-Proxy">Replacing data with CharlesProxy</a>  </li>
 <li> <a href="https://github.com/RustamFOX23/bash"> Bash </a>  </li>
-<li> <a href="https://github.com/osukhorukova/git"> Git </a> </li>
+<li> <a href="https://github.com/RustamFOX23/GIT"> Git </a> </li>
 </ul>
 </p>
 
