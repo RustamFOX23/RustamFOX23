@@ -15,7 +15,7 @@
 
 ## My CV 
 
-[CV]([[https://ссылочку_сюда](https://naberezhnye.hh.ru/resume/5478aa0aff09e6f6720039ed1f633874777246)]
+[CV][https://naberezhnye.hh.ru/resume/5478aa0aff09e6f6720039ed1f633874777246]
 
 ## Портфолио 
 - Тестовая документация
