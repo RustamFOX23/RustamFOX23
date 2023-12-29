@@ -112,7 +112,7 @@
 ---
 ### 📜Certificates:
 
-🔗[QA engineer](тут будет сертификат)
+🔗[QA engineer](https://v2.coreapp.ai/certificate/pdf/658d8d6e3596bf87b9e920f0)
 
 ---
 
