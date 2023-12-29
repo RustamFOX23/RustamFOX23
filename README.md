@@ -98,6 +98,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" title="linux" alt="linux" width="40" height="40"/>&nbsp
   
 </div>
 
@@ -113,6 +114,10 @@
 ### 📜Certificates:
 
 🔗[QA engineer](https://v2.coreapp.ai/certificate/pdf/658d8d6e3596bf87b9e920f0)
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RustamFox23&show_icons=true&theme=radical)
 
 ---
 
