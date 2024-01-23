@@ -15,7 +15,7 @@
 
 ## My CV 
 
- 📄[Rustam Bikmukhametov CV](https://naberezhnye.hh.ru/resume/5478aa0aff09e6f6720039ed1f633874777246)
+ 📄[Rustam Bikmukhametov CV](https://naberezhnye.hh.ru/resume/31f51c55ff0cc2567c0039ed1f4f4a4e444a76)
 
 
 </p>
